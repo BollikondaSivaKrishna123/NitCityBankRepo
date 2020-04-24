@@ -14,7 +14,10 @@ class Demo11
 		System.out.println("Thank you ssit students...nagaraju@123");
 		
 	}
-	
+	public void m5()
+	{
+		System.out.print("okk m5() method here");
+	}
 }
 public class Demo1 {
 
