@@ -1,13 +1,4 @@
 package com.nt.ssit;
-class Demo11
-{
-	public void m2()
-	{
-		System.out.println("Thank you ssit students...vamsi@123");
-		System.out.println("Thank you ssit students...nagaraju@123");
-		
-	}
-}
 public class Demo1 {
 
 	public static void main(String[] args) {
@@ -20,8 +11,6 @@ System.out.println("RATUDUPALEM");
 
 System.out.println("RATUDUPALEM/VEMSOOR/KHAMMAM12345611");
 
-Demo11 s=new Demo11();
-s.m2();
 
 	}
 
