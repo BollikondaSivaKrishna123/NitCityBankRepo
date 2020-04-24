@@ -7,6 +7,7 @@ public class Demo1 {
 System.out.println("BOLLIKONDA SIVA KRISHNA");
 System.out.println("BOLLIKONDA VAMSI KRISHNA");
 System.out.println("WELCOME TO SAI SPURTHI ENGG COLLEGAE");
+System.out.print("final year mini projects ...going on");
 	}
 
 }
