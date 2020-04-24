@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 package com.nt.ssit;
 
+=======
+package com.nt.ssit;
+>>>>>>> branch 'master' of https://github.com/BollikondaSivaKrishna123/NitCityBankRepo.git
 class Demo11
 {
 	public void m2()
@@ -20,6 +24,7 @@ class Demo11
 	{
 		System.out.print("okk m5() method here");
 	}
+<<<<<<< HEAD
 
 	public void m4()
 	{
@@ -28,6 +33,9 @@ class Demo11
 	}
 	
 }
+=======
+}
+>>>>>>> branch 'master' of https://github.com/BollikondaSivaKrishna123/NitCityBankRepo.git
 public class Demo1 {
 
 	public static void main(String[] args) {
@@ -42,9 +50,17 @@ System.out.println("RATUDUPALEM/VEMSOOR/KHAMMAM12345611");
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/BollikondaSivaKrishna123/NitCityBankRepo.git
 Demo11 s=new Demo11();
 s.m2();
 s.m3();
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/BollikondaSivaKrishna123/NitCityBankRepo.git
 	}
 
 }
